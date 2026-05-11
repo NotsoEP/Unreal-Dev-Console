@@ -6,7 +6,7 @@ Replace FLOP_API with the target project/module API macro, for example MYPROJECT
 • Or remove the API macro if the classes stay private to that same game module.
 
 Commands:
-dev.stat (StatToChange)\
+dev.stat (StatToChange) (AmountToChange)\
 Stamina/CurrentStamina/StaminaCurrent/MaxStamina/StaminaMax/MaximumStamina/CurrentHealth/HealthCurrent/MaxHealth/HealthMax/MaximumHealth\
 dev.tp LOCATION/(leave blank it will list your teleport spots in the console window so expand it)\
 dev.god on/off 
