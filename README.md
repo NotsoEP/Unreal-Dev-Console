@@ -14,7 +14,7 @@ Right click and create a BP DeveloperDebugConsole, place it in your scene\
     there will be an array you can add the marker names to.(Teleport Marker Actors)\
 Right click and create a BP DeveloperTeleportMarker. Name it and place in scene. Enter the same name on the debug console.
 
-For teleport, there is an option to tick if you are using world partition, if you are, it will teleport the player to the location aobve, wait for the scene to load, then check for ground collider then it will drop you to that spot.
+For teleport, there is an option to tick if you are using world partition, if you are, it will teleport the player to the location above your marker, wait for the scene to load, then check for ground collider then it will drop you to that spot.
 
 
 How the stats to work:
