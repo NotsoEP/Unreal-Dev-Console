@@ -1,3 +1,5 @@
+PLACE THESE IN YOUR PROJECTS SOURCE FOLDER
+
 Be sure to change the class in the 2 .h files.
 They start with FLOP_API, yours should be whatever your project is. (Usually MYPROJECT.Build.cs you would use the MYPROJECT part)\
 Replace FLOP_API with the target project/module API macro, for example MYPROJECT_API.\
